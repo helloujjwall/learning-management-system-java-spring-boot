@@ -39,7 +39,7 @@ To deploy this project, follow these steps:
     ```bash
     mvn spring-boot:run
     ```
-4. Open your browser and navigate to `http://localhost:8080` to access the application.
+4. Open your browser and navigate to `http://localhost:8088` to access the application.
 
 ## Project Modules
 
