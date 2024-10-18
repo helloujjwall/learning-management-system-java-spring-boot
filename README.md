@@ -52,4 +52,5 @@ To deploy this project, follow these steps:
 7. **Study Material Management**: Provides study resources.
 8. **SMS API Integration**: Sends SMS alerts.
 
-
+## Watch Demo Video
+[Click Here](https://youtu.be/9iM0vEKQtDE?si=cjlqB7reNVvDw4ln)
